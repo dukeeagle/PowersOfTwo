@@ -1,3 +1,3 @@
 # PowersOfTwo
 
-Twitter Bot that tweets the powers of two every so often.
+Twitter bot that tweets the powers of two every so often.
